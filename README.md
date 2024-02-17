@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Jed Palero
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-- <h2 align="center">
 <h2 align="left">
   Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px" height="22px">, I'm Jed
 </h2>
