@@ -25,6 +25,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React JS](https://img.shields.io/badge/react-%2331A8FF.svg?style=for-the-badge&logo=react&logoColor=white)
 
+
 # 📊GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Jedpalero&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
