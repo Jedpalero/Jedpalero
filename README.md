@@ -36,7 +36,7 @@
 
 # 📰Daily Dev
 
-<a href="https://app.daily.dev/jedpalero"><img src="https://api.daily.dev/devcards/v2/lVR5bEOaPuvtdyLnPcAaO.png?r=yn7&type=wide" width="652" alt="Jeduthun Paul Palero's Dev Card"/></a>
+<a href="https://app.daily.dev/jedpalero"><img src="https://api.daily.dev/devcards/v2/lVR5bEOaPuvtdyLnPcAaO.png?type=wide&r=iu2" width="652" alt="Jeduthun Paul Palero's Dev Card"/></a>
 
 
 
